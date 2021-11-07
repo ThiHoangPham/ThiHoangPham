@@ -7,7 +7,7 @@ Hi, I'm [Adam Pham](https://raw.githack.com/ThiHoangPham/Coursework2.Adam/master
 - 🤔 I’m looking for help with Data Structures and Algorithms 😭;
 - 💬 Ask me about anything, I am more than happy to help;
 - 📫 How to reach me: thaihoangpham2008@gmail.com;
-- 📝[Resume](https://drive.google.com/file/d/1JlmDK8aVHE1-ZxSKSBL8rdmTicNmCY-0/view)
+- 📝[Resume](https://thihoangpham.github.io/updated-portfolio-page-adam-homework8/resume.html)
 
 <h2>Languages and Tools:</h2>  
 
