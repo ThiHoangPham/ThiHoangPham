@@ -38,8 +38,8 @@ Hi, I'm [Adam Pham](https://raw.githack.com/ThiHoangPham/Coursework2.Adam/master
 <a href="https://www.buymeacoffee.com/adampham123" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
 </p>
 <p align="center"> 
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=ThiHoangPham&show_icons=true&theme=react" alt="ThiHoangPham" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThiHoangPham&show_icons=true&theme=react" alt="ThiHoangPham" />
+  <img height="200" src="https://github-readme-stats.vercel.app/api?username=ThiHoangPham&show_icons=true&theme=react" alt="ThiHoangPham" />
+  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThiHoangPham&show_icons=true&theme=react" alt="ThiHoangPham" />
 </p>
 <p align="center"> 
   
