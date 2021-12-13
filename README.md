@@ -10,7 +10,7 @@ Hi, I'm [Adam Pham](https://raw.githack.com/ThiHoangPham/Coursework2.Adam/master
 - 📝[Resume](https://thihoangpham.github.io/updated-portfolio-page-adam-homework8/resume.html)
 
 <h2>Languages and Tools:</h2>  
-<p>
+<p align="center>
   <img height="35" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   <img height="35" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
   <img height="35" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white">
