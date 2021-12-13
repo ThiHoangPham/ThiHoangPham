@@ -8,6 +8,7 @@ Hi, I'm [Adam Pham](https://raw.githack.com/ThiHoangPham/Coursework2.Adam/master
 - 💬 Ask me about anything, I am more than happy to help;
 - 📫 How to reach me: thaihoangpham2008@gmail.com
 - 📝[Resume](https://thihoangpham.github.io/updated-portfolio-page-adam-homework8/resume.html)
+- 🌐[My Portfolio Page](https://thihoangpham.github.io/updated-professional-materials/)
 
 <h2>Languages and Tools:</h2>  
 <p align="center>
