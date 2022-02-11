@@ -1,14 +1,14 @@
 ![Github Banner](https://user-images.githubusercontent.com/88220398/145734562-e977ca1a-47cf-48cb-bc02-27f18754d1ed.png)
 
-Hi, I'm [Adam Pham](https://raw.githack.com/ThiHoangPham/Coursework2.Adam/master/index.html), a passionate self-taught full stack web developer from Australia. I always try my best in every aplication of mine, make sure the codes are high in quality and readable for everyone.
+Hi, I'm [Adam Pham](https://github.com/ThiHoangPham), a passionate self-taught full stack web developer from Australia. I always try my best in every aplication of mine, make sure the codes are high in quality and readable for everyone.
   
-- 👨🏽‍💻 I’m currently learning on "UWA Coding Bootcamp";
+- 👨🏽‍💻 I’ve graduated "UWA Coding Bootcamp";
 - 👯 I’m looking to collaborate on some commercial websites;
 - 🤔 I’m looking for help with Data Structures and Algorithms 😭;
 - 💬 Ask me about anything, I am more than happy to help;
 - 📫 How to reach me: thaihoangpham2008@gmail.com
-- 📝[Resume](https://thihoangpham.github.io/updated-portfolio-page-adam-homework8/resume.html)
-- 🌐[My Portfolio Page](https://thihoangpham.github.io/updated-professional-materials/)
+- 📝[Resume](https://thihoangpham.github.io/react-portfolio/#resume)
+- 🌐[My Portfolio Page](https://thihoangpham.github.io/react-portfolio/)
 
 <h2>Languages and Tools:</h2>  
 <p align="center>
@@ -22,6 +22,7 @@ Hi, I'm [Adam Pham](https://raw.githack.com/ThiHoangPham/Coursework2.Adam/master
   <img height="35" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
   <img height="35" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
   <img height="35" src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white">
+  <img height="35" src="https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white">
   <img height="35" src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white">
 </p>
 <h2>Socials:</h2>
